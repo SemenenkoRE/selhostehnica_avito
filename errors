@@ -1,0 +1,262 @@
+ссылка: https://www.avito.ru/barnaul/zapchasti_i_aksessuary/traktor_mtz_80_razobran_2179323530
+ошибка: key 'self.type_technic' must not contain '.'
+
+ссылка: https://www.avito.ru/ulyanovsk/zapchasti_i_aksessuary/kabina_traktora_mtz_80_82_s_bokovymi_ramkami_2168507964
+ошибка: invalid literal for int() with base 10: 'сегодня'
+
+ссылка: /kataysk/gruzoviki_i_spetstehnika/traktor_mtz-80_2195572809
+ошибка: invalid literal for int() with base 10: 'сегодня'
+
+ссылка: /krasnodar/gruzoviki_i_spetstehnika/traktor_rostselmash_320_versatile_2168958353
+ошибка: Invalid predicate
+
+ссылка: /belgorod/gruzoviki_i_spetstehnika/kombayn_zernouborochnyy_john_deere_s690_2190035204
+ошибка: 'NoneType' object has no attribute 'split'
+
+ссылка: /belgorod/gruzoviki_i_spetstehnika/kombayn_zernouborochnyy_john_deere_s690_2190035204
+ошибка: 'NoneType' object has no attribute 'split'
+
+ссылка: /kurovskoe/gruzoviki_i_spetstehnika/zernouborochnyy_kombayn_john_deere_935_2039679825
+ошибка: 'NoneType' object has no attribute 'split'
+
+ссылка: /berezanskaya/gruzoviki_i_spetstehnika/kombayn_john_deere_2264_1898450557
+ошибка: 'NoneType' object has no attribute 'split'
+
+ссылка: /belgorod/gruzoviki_i_spetstehnika/kombayn_zernouborochnyy_john_deere_s690_2190035204
+ошибка: 'NoneType' object has no attribute 'split'
+
+ссылка: /rostov-na-donu/gruzoviki_i_spetstehnika/kormouborochnyy_kombayn_rsm_f_2650_2201757269
+ошибка: 'NoneType' object is not subscriptable
+
+ссылка: /bogolyubovo/gruzoviki_i_spetstehnika/kombayn_rsm1401_2142006396
+ошибка: 'NoneType' object is not subscriptable
+
+ссылка: /yaroslavl/gruzoviki_i_spetstehnika/kombayn_rostselmash_rsm1401_2011_g_2060975316
+ошибка: 'NoneType' object is not subscriptable
+
+
+ссылка: /krasnodarskiy_kray_krylovskaya/gruzoviki_i_spetstehnika/acros_550_2192682138
+ошибка: list index out of range
+
+ссылка: /rostov-na-donu/kollektsionirovanie/kollektsionnye_modeli_kombaynov_i_traktorov_1953705919?slocation=621540
+ошибка: list index out of range
+
+ссылка: /novosibirsk/gruzoviki_i_spetstehnika/zernouborochnyy_kombayn_rsm-142_acros-530_2177769274
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /sandata/gruzoviki_i_spetstehnika/kombayn_akros_530_2125578386
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /nalobiha/gruzoviki_i_spetstehnika/kombayn_akros_530_2209453302
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /tihoretsk/gruzoviki_i_spetstehnika/kombayn_akros_530_acros_rostselmash_2169298305
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /vologodskaya_oblast_sokol/predlozheniya_uslug/uslugi_traktora_mtz_82_s_pritsepom_1914036593
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /dobrinka/gruzoviki_i_spetstehnika/traktor_mtz-82_2201398656
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /terbuny/gruzoviki_i_spetstehnika/traktor_mtz_82_2184094546
+ошибка: list index out of range
+
+ссылка: /ulyanovsk/zapchasti_i_aksessuary/kabina_traktora_mtz_80_82_s_bokovymi_ramkami_2168507964
+ошибка: list index out of range
+
+ссылка: /ufa/gruzoviki_i_spetstehnika/otval_universalnyy_k_traktoru_mtz_82_2153767936
+ошибка: list index out of range
+
+ссылка: /moskovskaya_oblast_lesnoy/gruzoviki_i_spetstehnika/traktor_mtz82_2179938514
+ошибка: list index out of range
+
+ссылка: /yaroslavl/gruzoviki_i_spetstehnika/traktor_mtz-82_2174800523
+ошибка: list index out of range
+
+ссылка: /krasnoyarsk/zapchasti_i_aksessuary/na_traktor_mtz_8082_1953141136
+ошибка: list index out of range
+
+ссылка: /volgograd/gruzoviki_i_spetstehnika/traktor_mtz_82.1_2180915278
+ошибка: list index out of range
+
+ссылка: /yoshkar-ola/gruzoviki_i_spetstehnika/traktor_mtz_82.1_2192200959
+ошибка: list index out of range
+
+ссылка: /karachev/predlozheniya_uslug/arenda_traktora_mtz_82_2015345583
+ошибка: list index out of range
+
+ссылка: /klin/vakansii/mehanizator_mtz_82_voditel_traktora_2026581363
+ошибка: could not convert string to float: '50000—70000'
+
+ссылка: /ekaterinburg/gruzoviki_i_spetstehnika/traktor_mtz-82_2192927774
+ошибка: list index out of range
+
+ссылка: /nazarovo/gruzoviki_i_spetstehnika/mtz-82_2205345405
+ошибка: list index out of range
+
+ссылка: /tobolsk/gruzoviki_i_spetstehnika/prodam_traktor_mtz-82_2028859947
+ошибка: list index out of range
+
+ссылка: /salavat/gruzoviki_i_spetstehnika/traktor_mtz_82_2195428289
+ошибка: list index out of range
+
+ссылка: /krasnoyarskiy_kray_aginskoe/gruzoviki_i_spetstehnika/prodam_traktor_mtz_8212016_g.v_2187090214
+ошибка: list index out of range
+
+ссылка: /ekaterinburg/zapchasti_i_aksessuary/shiny_dlya_traktora_belarus_mtz-82_801781815
+ошибка: list index out of range
+
+ссылка: /zemetchino/gruzoviki_i_spetstehnika/mtz_82_2142585147
+ошибка: list index out of range
+
+ссылка: /furmanov/gruzoviki_i_spetstehnika/traktor_mtz_82_1195587027
+ошибка: list index out of range
+
+ссылка: /kirsanov/gruzoviki_i_spetstehnika/traktor_mtz-82_2110477316
+ошибка: list index out of range
+
+ссылка: /minusinsk/gruzoviki_i_spetstehnika/traktor_mtz-82_2188743981
+ошибка: list index out of range
+
+ссылка: /volgograd/gruzoviki_i_spetstehnika/traktor_mtz_82_belarus_2229688055
+ошибка: list index out of range
+
+ссылка: /sudislavl/gruzoviki_i_spetstehnika/mtz_82_2175441029
+ошибка: list index out of range
+
+ссылка: /gorno-altaysk/gruzoviki_i_spetstehnika/mtz_82_2191872398
+ошибка: list index out of range
+
+ссылка: /saratov/gruzoviki_i_spetstehnika/traktor_mtz_belarus-82.1-2312_balochnik_2112707953
+ошибка: list index out of range
+
+ссылка: /altayskoe/gruzoviki_i_spetstehnika/prodam_mtz_82_2164412143
+ошибка: list index out of range
+
+ссылка: /staroe_drozhzhanoe/gruzoviki_i_spetstehnika/traktor_mtz_82.1_2167609969
+ошибка: list index out of range
+
+ссылка: /ivanovo/gruzoviki_i_spetstehnika/traktor_belarus-82.1_mtz_2121034280
+ошибка: list index out of range
+
+ссылка: /antropovo/gruzoviki_i_spetstehnika/traktor_mtz-82_1949717418
+ошибка: list index out of range
+
+ссылка: /bolshoy_uluy/gruzoviki_i_spetstehnika/mtz-82_2192313567
+ошибка: list index out of range
+
+ссылка: /antropovo/gruzoviki_i_spetstehnika/traktor_mtz-82_1949717418
+ошибка: list index out of range
+
+ссылка: /zemetchino/gruzoviki_i_spetstehnika/mtz_82_2142585147
+ошибка: list index out of range
+
+ссылка: /novobeysugskaya/gruzoviki_i_spetstehnika/belarus_mtz_82_traktor_2197027462
+ошибка: list index out of range
+
+ссылка: /suzdal/gruzoviki_i_spetstehnika/traktor_mtz_82_2061851319
+ошибка: list index out of range
+
+ссылка: /vichuga/predlozheniya_uslug/uslugi_traktora_mtz_82_2146681797
+ошибка: list index out of range
+
+ссылка: /starominskaya/gruzoviki_i_spetstehnika/traktor_mtz_belarus_2122.3_1783406766
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /ust-labinsk/gruzoviki_i_spetstehnika/traktor_belarus-2122.3_mtz_2197818891
+ошибка: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: http://sqlalche.me/e/14/3o7r)
+
+ссылка: /raevskaya/vakansii/mashinist_pogruzchika_1763158642
+ошибка: could not convert string to float: '40000—60000'
+
+ссылка: /pugachev/gruzoviki_i_spetstehnika/zernouborochnyy_kombayn_polese_2sht_2055534277
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'type_technic' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 596, 'hex_id': '64c41cc61ef7fb1de3f843878b17ba633f42ff80', 'reference_ad': 'https://www.avito.ru/pugachev/gruzoviki_i_spetstehnika/zernouborochnyy_kombayn_polese_2sht_2055534277', 'title_text': 'Зерноуборочный комбайн полесье 2шт', 'type_technic': 'тележка для жаток/сеялок (адаптеров) ', 'price': 5500000.0, 'offer_datetime': datetime.datetime(2021, 7, 21, 10, 44), 'address': 'Саратовская область, Пугачёвский р-н, Пугачёв', 'area': 'rossiya', 'model_request': 'кзс', 'model_research': None, 'model_exact': 'тележка для жатки ', 'year': 2017, 'condition': 'б/у ', 'maker': 'агротехника ', 'maker_request': 'полесье', 'moto_hours': 2000, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /solnechnogorsk/vakansii/mehanizator_traktorist_na_new_holland_t_8.410_1988182534
+ошибка: could not convert string to float: 'от120000'
+
+ссылка: /moskva/vakansii/traktorist_mashinist_mtz_82.1_1857429427
+ошибка: could not convert string to float: '50000—90000'
+
+ссылка: /tsilna/vakansii/traktorist_mehanizator_mtz_82_2203599469
+ошибка: could not convert string to float: 'от50000'
+
+ссылка: /volgograd/gruzoviki_i_spetstehnika/mtz_1221_2011g_traktor_belarus_2165481421
+ошибка: list index out of range
+
+ссылка: /vologda/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2089720291
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 877, 'hex_id': '3bb771ffc04fb4defc8b7ba8e0c99f74f12610cb', 'reference_ad': 'https://www.avito.ru/vologda/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2089720291', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3090000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 14, 54), 'address': 'Вологодская область, Вологда', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': None, 'year': 2020, 'condition': 'новое ', 'maker': None, 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /penza/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112527495
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 881, 'hex_id': 'f051dd226d303737af777a8baf801ce45a57064a', 'reference_ad': 'https://www.avito.ru/penza/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112527495', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3090000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 18, 23), 'address': 'Пензенская область, Пенза', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': '1221.3 ', 'year': 2020, 'condition': 'новое ', 'maker': 'мтз (беларус) ', 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /penza/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112527495
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 882, 'hex_id': 'f051dd226d303737af777a8baf801ce45a57064a', 'reference_ad': 'https://www.avito.ru/penza/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112527495', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3090000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 18, 23), 'address': 'Пензенская область, Пенза', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': '1221.3 ', 'year': 2020, 'condition': 'новое ', 'maker': 'мтз (беларус) ', 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /nizhniy_novgorod/gruzoviki_i_spetstehnika/traktor_belarus-1221.3_1221.3-0000010-220rs_2089613245
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 932, 'hex_id': '7a36c1a2ba2d746f0587cfca403339280044531b', 'reference_ad': 'https://www.avito.ru/nizhniy_novgorod/gruzoviki_i_spetstehnika/traktor_belarus-1221.3_1221.3-0000010-220rs_2089613245', 'title_text': 'Трактор "Беларус"-1221.3 (1221.3-0000010-220+р/с №', 'type_technic': 'трактор ', 'price': 3150000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 18, 13), 'address': 'Нижегородская область, Нижний Новгород', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3_1221_3_0000010_220+р_с', 'model_exact': '1221.3 ', 'year': 2020, 'condition': 'новое ', 'maker': 'мтз (беларус) ', 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /penza/gruzoviki_i_spetstehnika/traktor_belarus-1221.3_1221.3-0000010-220rs_2112238416
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 977, 'hex_id': 'f1b3f8143dedf1d567a0f02a1cc4cd771d504497', 'reference_ad': 'https://www.avito.ru/penza/gruzoviki_i_spetstehnika/traktor_belarus-1221.3_1221.3-0000010-220rs_2112238416', 'title_text': 'Трактор "Беларус"-1221.3 (1221.3-0000010-220+р/с №', 'type_technic': 'трактор ', 'price': 3220000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 14, 0), 'address': 'Пензенская область, Пенза', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3_1221_3_0000010_220+р_с', 'model_exact': '1221.3 ', 'year': 2021, 'condition': 'новое ', 'maker': 'мтз (беларус) ', 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /surgut/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2121397582
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 982, 'hex_id': 'c043230b8c2eef14cfc24dc5b67b5b1aefbfa871', 'reference_ad': 'https://www.avito.ru/surgut/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2121397582', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3090000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 17, 18), 'address': 'Тюменская область, Сургут', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': None, 'year': 2020, 'condition': 'новое ', 'maker': None, 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /habarovsk/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112693869
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 1003, 'hex_id': 'e4564042321af88334549faaca20c728e7e17cbb', 'reference_ad': 'https://www.avito.ru/habarovsk/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112693869', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': None, 'price': None, 'offer_datetime': datetime.datetime(2021, 8, 17, 7, 11), 'address': 'Хабаровский край, Хабаровск', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': None, 'year': 2020, 'condition': 'новое ', 'maker': None, 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /orenburg/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2111979258
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 1003, 'hex_id': 'f49b1c87926fcde0c63d08545ea634cd86d9f8ad', 'reference_ad': 'https://www.avito.ru/orenburg/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2111979258', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3160000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 17, 49), 'address': 'Оренбургская область, Оренбург', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': None, 'year': 2020, 'condition': 'новое ', 'maker': None, 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /amurskaya_oblast_blagoveschensk/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112717524
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 1003, 'hex_id': '4dc731e9cb57d987f0747932788760143f99938d', 'reference_ad': 'https://www.avito.ru/amurskaya_oblast_blagoveschensk/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2112717524', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3160000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 13, 43), 'address': 'Амурская область, Благовещенск', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': None, 'year': 2020, 'condition': 'новое ', 'maker': None, 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /gresovskiy/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2111957219
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 1003, 'hex_id': '9f76776491d9eaf8081bf0af842bf1606f1b0663', 'reference_ad': 'https://www.avito.ru/gresovskiy/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2111957219', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3090000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 19, 40), 'address': 'Республика Крым, Симферополь', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': None, 'year': 2020, 'condition': 'новое ', 'maker': None, 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /vologda/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2089720291
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 1005, 'hex_id': '3bb771ffc04fb4defc8b7ba8e0c99f74f12610cb', 'reference_ad': 'https://www.avito.ru/vologda/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2089720291', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3090000.0, 'offer_datetime': datetime.datetime(2021, 8, 17, 14, 54), 'address': 'Вологодская область, Вологда', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': None, 'year': 2020, 'condition': 'новое ', 'maker': None, 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
+ссылка: /moskva/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2121399094
+ошибка: (pymysql.err.DataError) (1406, "Data too long for column 'model_research' at row 1")
+[SQL: INSERT INTO sh_technic_new (id, hex_id, reference_ad, title_text, type_technic, price, offer_datetime, address, area, model_request, model_research, model_exact, year, `condition`, maker, maker_request, moto_hours, document) VALUES (%(id)s, %(hex_id)s, %(reference_ad)s, %(title_text)s, %(type_technic)s, %(price)s, %(offer_datetime)s, %(address)s, %(area)s, %(model_request)s, %(model_research)s, %(model_exact)s, %(year)s, %(condition)s, %(maker)s, %(maker_request)s, %(moto_hours)s, %(document)s)]
+[parameters: {'id': 1008, 'hex_id': '87b5d3d166d63d4970724d094e90483df4be403f', 'reference_ad': 'https://www.avito.ru/moskva/gruzoviki_i_spetstehnika/traktor_belarus-1221.3mtz1221.3-0000010-262r_2121399094', 'title_text': 'Трактор "Беларус-1221.3"(мтз)(1221.3-0000010-262+р', 'type_technic': 'трактор ', 'price': 3260000.0, 'offer_datetime': datetime.datetime(2021, 8, 9, 21, 47), 'address': 'Москва', 'area': 'rossiya', 'model_request': '1221', 'model_research': 'беларус_1221_3мтз1221_3_0000010_262+р', 'model_exact': '1221.3 ', 'year': 2021, 'condition': 'новое ', 'maker': 'мтз (беларус) ', 'maker_request': 'мтз', 'moto_hours': None, 'document': 'оригинал '}]
+(Background on this error at: http://sqlalche.me/e/14/9h9h)
+
